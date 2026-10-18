@@ -40,8 +40,13 @@ No new major coding project. No new language topics as requirements.
 - Due: as directed for demo week; discussions still Friday / Sunday
 - Late: course policy unless a different close-out rule is published
 
-## Rubric
-Communication and completeness. The demo and the reflection are the work.
+## Rubric (100)
+
+| Criterion | Pts |
+|-----------|----:|
+| Submitted work | 50 |
+| Video explanation | 50 |
+
 
 ## Getting started
 
